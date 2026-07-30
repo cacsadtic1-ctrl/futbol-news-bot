@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-07-29T18:00:35.587379+00:00",
+  "total_groups": 20,
+  "top3": [
+    {
+      "titulo_norm": "ultimatum de la fifa a las federaciones para la venta del mundial y nuevo comunicado de la uefa",
+      "titulos_raw": [
+        "Ultimátum de la FIFA a las federaciones para la venta del Mundial y nuevo comunicado de la UEFA"
+      ],
+      "enlaces": [
+        "https://www.mundodeportivo.com/futbol/20260729/1004211390/ultimatum-fifa-federaciones-venta-mundial-nuevo-comunicado-uefa.html"
+      ],
+      "fuentes": [
+        "https://www.mundodeportivo.com/rss/futbol.xml"
+      ],
+      "published_candidates": [],
+      "titulo_representativo": "Ultimátum de la FIFA a las federaciones para la venta del Mundial y nuevo comunicado de la UEFA",
+      "fuentes_unicas": [
+        "https://www.mundodeportivo.com/rss/futbol.xml"
+      ],
+      "count_sources": 1,
+      "published": null,
+      "score": 2.4
+    },
+    {
+      "titulo_norm": "lech poznan agf aarhus en directo previa champions league",
+      "titulos_raw": [
+        "Lech Poznan - AGF Aarhus, en directo | Previa Champions League"
+      ],
+      "enlaces": [
+        "https://www.mundodeportivo.com/futbol/champions-league/20260729/1004209938/lech-poznan-agf-aarhus-directo-previa-champions-league.html"
+      ],
+      "fuentes": [
+        "https://www.mundodeportivo.com/rss/futbol.xml"
+      ],
+      "published_candidates": [],
+      "titulo_representativo": "Lech Poznan - AGF Aarhus, en directo | Previa Champions League",
+      "fuentes_unicas": [
+        "https://www.mundodeportivo.com/rss/futbol.xml"
+      ],
+      "count_sources": 1,
+      "published": null,
+      "score": 2.4
+    },
+    {
+      "titulo_norm": "duro comunicado de las ligas europeas contra infantino el mundial no esta en venta",
+      "titulos_raw": [
+        "Duro comunicado de las Ligas Europeas contra Infantino: \"El Mundial no está en venta\""
+      ],
+      "enlaces": [
+        "https://www.mundodeportivo.com/futbol/fifa/20260729/1004211398/duro-comunicado-ligas-europeas-infantino-mundial-no-venta.html"
+      ],
+      "fuentes": [
+        "https://www.mundodeportivo.com/rss/futbol.xml"
+      ],
+      "published_candidates": [],
+      "titulo_representativo": "Duro comunicado de las Ligas Europeas contra Infantino: \"El Mundial no está en venta\"",
+      "fuentes_unicas": [
+        "https://www.mundodeportivo.com/rss/futbol.xml"
+      ],
+      "count_sources": 1,
+      "published": null,
+      "score": 2.4
+    }
+  ]
+}
