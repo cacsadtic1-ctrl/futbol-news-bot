@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-29T18:00:35.587379+00:00",
+  "generated_at": "2026-08-01T21:29:50.771835+00:00",
   "total_groups": 20,
   "top3": [
     {
-      "titulo_norm": "ultimatum de la fifa a las federaciones para la venta del mundial y nuevo comunicado de la uefa",
+      "titulo_norm": "debutar con el real madrid es un orgullo enorme",
       "titulos_raw": [
-        "Ultimátum de la FIFA a las federaciones para la venta del Mundial y nuevo comunicado de la UEFA"
+        "\"Debutar con el Real Madrid es un orgullo enorme\""
       ],
       "enlaces": [
-        "https://www.mundodeportivo.com/futbol/20260729/1004211390/ultimatum-fifa-federaciones-venta-mundial-nuevo-comunicado-uefa.html"
+        "https://www.mundodeportivo.com/futbol/real-madrid/20260801/1004212345/debutar-real-madrid-orgullo-enorme.html"
       ],
       "fuentes": [
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
       "published_candidates": [],
-      "titulo_representativo": "Ultimátum de la FIFA a las federaciones para la venta del Mundial y nuevo comunicado de la UEFA",
+      "titulo_representativo": "\"Debutar con el Real Madrid es un orgullo enorme\"",
       "fuentes_unicas": [
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
@@ -23,18 +23,18 @@
       "score": 2.4
     },
     {
-      "titulo_norm": "lech poznan agf aarhus en directo previa champions league",
+      "titulo_norm": "nyland ya tiene equipo tras dejar el sevilla y su gran mundial",
       "titulos_raw": [
-        "Lech Poznan - AGF Aarhus, en directo | Previa Champions League"
+        "Nyland ya tiene equipo tras dejar el Sevilla y su gran Mundial"
       ],
       "enlaces": [
-        "https://www.mundodeportivo.com/futbol/champions-league/20260729/1004209938/lech-poznan-agf-aarhus-directo-previa-champions-league.html"
+        "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260801/1004212338/nyland-equipo-dejar-sevilla-gran-mundial.html"
       ],
       "fuentes": [
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
       "published_candidates": [],
-      "titulo_representativo": "Lech Poznan - AGF Aarhus, en directo | Previa Champions League",
+      "titulo_representativo": "Nyland ya tiene equipo tras dejar el Sevilla y su gran Mundial",
       "fuentes_unicas": [
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
@@ -43,24 +43,24 @@
       "score": 2.4
     },
     {
-      "titulo_norm": "duro comunicado de las ligas europeas contra infantino el mundial no esta en venta",
+      "titulo_norm": "el oscuro tunel de kubo",
       "titulos_raw": [
-        "Duro comunicado de las Ligas Europeas contra Infantino: \"El Mundial no está en venta\""
+        "El oscuro túnel de Kubo"
       ],
       "enlaces": [
-        "https://www.mundodeportivo.com/futbol/fifa/20260729/1004211398/duro-comunicado-ligas-europeas-infantino-mundial-no-venta.html"
+        "https://as.com/futbol/2022/06/08/primera/1654721922_437209.html#?ref=rss&format=simple&link=link"
       ],
       "fuentes": [
-        "https://www.mundodeportivo.com/rss/futbol.xml"
+        "https://as.com/rss/futbol/primera.xml"
       ],
       "published_candidates": [],
-      "titulo_representativo": "Duro comunicado de las Ligas Europeas contra Infantino: \"El Mundial no está en venta\"",
+      "titulo_representativo": "El oscuro túnel de Kubo",
       "fuentes_unicas": [
-        "https://www.mundodeportivo.com/rss/futbol.xml"
+        "https://as.com/rss/futbol/primera.xml"
       ],
       "count_sources": 1,
       "published": null,
-      "score": 2.4
+      "score": 0.6
     }
   ]
 }
