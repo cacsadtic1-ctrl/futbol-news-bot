@@ -25,7 +25,7 @@ import re
 
 RSS_SOURCES = [
     "https://www.goal.com/es/feeds/news",
-    "https://as.com/rss/futbol/primera.xml",
+    "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/",
     "https://www.mundodeportivo.com/rss/futbol.xml"
     # ESPN se omite porque tu red lo bloquea
 ]
@@ -64,6 +64,19 @@ def decay_hours(published_datetime, lambda_h=DECAY_LAMBDA):
     delta = now - published_datetime
     h = delta.total_seconds() / 3600.0
     return math.exp(-lambda_h * h)
+
+# ---------------------------
+# Función auxiliar para JSON
+# ---------------------------
+
+def serializar_datetime(obj):
+    """
+    Convierte objetos datetime en string ISO para que json.dump los acepte.
+    Ejemplo: 2026-08-02T14:57:49+00:00
+    """
+    if isinstance(obj, datetime):
+        return obj.isoformat()
+    raise TypeError(f"Tipo no serializable: {type(obj)}")
 
 # ---------------------------
 # Extracción de RSS
@@ -174,7 +187,8 @@ def obtener_top3_virales():
     }
     os.makedirs("data", exist_ok=True)
     with open("data/top3_rss_mejorado.json", "w", encoding="utf-8") as f:
-        json.dump(resultado, f, ensure_ascii=False, indent=2)
+        # Usamos default=serializar_datetime para convertir datetime a string
+        json.dump(resultado, f, ensure_ascii=False, indent=2, default=serializar_datetime)
     return resultado
 
 # ---------------------------

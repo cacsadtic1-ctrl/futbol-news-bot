@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-01T21:29:50.771835+00:00",
-  "total_groups": 20,
+  "generated_at": "2026-08-02T20:05:36.378424+00:00",
+  "total_groups": 19,
   "top3": [
     {
-      "titulo_norm": "debutar con el real madrid es un orgullo enorme",
+      "titulo_norm": "real madrid casting abierto en el lateral derecho",
       "titulos_raw": [
-        "\"Debutar con el Real Madrid es un orgullo enorme\""
+        "Real Madrid: casting abierto en el lateral derecho"
       ],
       "enlaces": [
-        "https://www.mundodeportivo.com/futbol/real-madrid/20260801/1004212345/debutar-real-madrid-orgullo-enorme.html"
+        "https://www.mundodeportivo.com/futbol/real-madrid/20260802/1004212535/real-madrid-casting-abierto-lateral-derecho.html"
       ],
       "fuentes": [
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
       "published_candidates": [],
-      "titulo_representativo": "\"Debutar con el Real Madrid es un orgullo enorme\"",
+      "titulo_representativo": "Real Madrid: casting abierto en el lateral derecho",
       "fuentes_unicas": [
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
@@ -23,44 +23,52 @@
       "score": 2.4
     },
     {
-      "titulo_norm": "nyland ya tiene equipo tras dejar el sevilla y su gran mundial",
+      "titulo_norm": "ferran torres no esta en venta",
       "titulos_raw": [
-        "Nyland ya tiene equipo tras dejar el Sevilla y su gran Mundial"
+        "Ferran Torres no está en venta",
+        "Ferran Torres no está en venta"
       ],
       "enlaces": [
-        "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260801/1004212338/nyland-equipo-dejar-sevilla-gran-mundial.html"
+        "https://as.com/futbol/primera/ferran-torres-no-esta-en-venta-f202608-n/",
+        "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212507/ferran-torres-no-venta.html"
       ],
       "fuentes": [
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/",
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
-      "published_candidates": [],
-      "titulo_representativo": "Nyland ya tiene equipo tras dejar el Sevilla y su gran Mundial",
+      "published_candidates": [
+        "2026-08-02T17:05:52+00:00"
+      ],
+      "titulo_representativo": "Ferran Torres no está en venta",
       "fuentes_unicas": [
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/",
         "https://www.mundodeportivo.com/rss/futbol.xml"
       ],
-      "count_sources": 1,
-      "published": null,
-      "score": 2.4
+      "count_sources": 2,
+      "published": "2026-08-02T17:05:52+00:00",
+      "score": 2.3607029507118034
     },
     {
-      "titulo_norm": "el oscuro tunel de kubo",
+      "titulo_norm": "una demanda del pasado retrasa el anuncio de diomande",
       "titulos_raw": [
-        "El oscuro túnel de Kubo"
+        "Una demanda del pasado retrasa el anuncio de Diomande"
       ],
       "enlaces": [
-        "https://as.com/futbol/2022/06/08/primera/1654721922_437209.html#?ref=rss&format=simple&link=link"
+        "https://as.com/futbol/una-demanda-del-pasado-retrasa-el-anuncio-de-diomande-f202608-n/"
       ],
       "fuentes": [
-        "https://as.com/rss/futbol/primera.xml"
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/"
       ],
-      "published_candidates": [],
-      "titulo_representativo": "El oscuro túnel de Kubo",
+      "published_candidates": [
+        "2026-08-02T18:29:52+00:00"
+      ],
+      "titulo_representativo": "Una demanda del pasado retrasa el anuncio de Diomande",
       "fuentes_unicas": [
-        "https://as.com/rss/futbol/primera.xml"
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/"
       ],
       "count_sources": 1,
-      "published": null,
-      "score": 0.6
+      "published": "2026-08-02T18:29:52+00:00",
+      "score": 0.880158870686489
     }
   ]
 }
