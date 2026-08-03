@@ -3,10 +3,9 @@
 # Render necesita que tu aplicación escuche en el puerto que él asigna,
 # por eso configuramos Flask para usar la variable de entorno PORT.
 
-from flask import Flask, jsonify   # Importamos Flask y jsonify para crear el servidor y devolver JSON.
-import subprocess                  # Importamos subprocess para poder ejecutar tu script desde Python.
-import os                          # Importamos os para acceder a variables de entorno (ej. PORT).
-import json                        # Importamos json para leer el archivo generado por noticias_virales.py.
+from flask import Flask        # Importamos Flask, el microframework para crear el servidor web.
+import subprocess              # Importamos subprocess para poder ejecutar tu script desde Python.
+import os                      # Importamos os para acceder a variables de entorno (ej. PORT).
 
 # Creamos la aplicación Flask
 app = Flask(__name__)
@@ -20,15 +19,6 @@ def run_script():
     subprocess.run(["python", "scripts/noticias_virales.py"])
     # Devolvemos un mensaje de confirmación en la página.
     return "✅ Noticias actualizadas y JSON generado"
-
-# Nueva ruta "/top3" para devolver el archivo JSON con las noticias
-@app.route('/top3')
-def top3():
-    # Abrimos el archivo generado por noticias_virales.py
-    with open("data/top3.json", "r", encoding="utf-8") as f:
-        data = json.load(f)  # Cargamos el contenido como objeto Python
-    # Devolvemos el contenido como respuesta JSON
-    return jsonify(data)
 
 # Bloque principal: aquí arrancamos el servidor Flask
 if __name__ == "__main__":
