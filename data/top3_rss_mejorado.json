@@ -1,52 +1,50 @@
 {
-  "generated_at": "2026-08-02T20:05:36.378424+00:00",
-  "total_groups": 19,
+  "generated_at": "2026-08-03T00:25:54.824363+00:00",
+  "total_groups": 20,
   "top3": [
     {
-      "titulo_norm": "real madrid casting abierto en el lateral derecho",
+      "titulo_norm": "mercado de fichajes de laliga ea sports 2026 27 altas y bajas",
       "titulos_raw": [
-        "Real Madrid: casting abierto en el lateral derecho"
+        "Mercado de fichajes de LaLiga EA Sports 2026/27: altas y bajas"
       ],
       "enlaces": [
-        "https://www.mundodeportivo.com/futbol/real-madrid/20260802/1004212535/real-madrid-casting-abierto-lateral-derecho.html"
+        "https://as.com/futbol/primera/mercado-de-fichajes-de-laliga-ea-sports-202627-altas-y-bajas-f202605-n/"
       ],
       "fuentes": [
-        "https://www.mundodeportivo.com/rss/futbol.xml"
-      ],
-      "published_candidates": [],
-      "titulo_representativo": "Real Madrid: casting abierto en el lateral derecho",
-      "fuentes_unicas": [
-        "https://www.mundodeportivo.com/rss/futbol.xml"
-      ],
-      "count_sources": 1,
-      "published": null,
-      "score": 2.4
-    },
-    {
-      "titulo_norm": "ferran torres no esta en venta",
-      "titulos_raw": [
-        "Ferran Torres no está en venta",
-        "Ferran Torres no está en venta"
-      ],
-      "enlaces": [
-        "https://as.com/futbol/primera/ferran-torres-no-esta-en-venta-f202608-n/",
-        "https://www.mundodeportivo.com/futbol/fc-barcelona/20260802/1004212507/ferran-torres-no-venta.html"
-      ],
-      "fuentes": [
-        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/",
-        "https://www.mundodeportivo.com/rss/futbol.xml"
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/"
       ],
       "published_candidates": [
-        "2026-08-02T17:05:52+00:00"
+        "2026-08-02T20:43:59+00:00"
       ],
-      "titulo_representativo": "Ferran Torres no está en venta",
+      "titulo_representativo": "Mercado de fichajes de LaLiga EA Sports 2026/27: altas y bajas",
       "fuentes_unicas": [
-        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/",
-        "https://www.mundodeportivo.com/rss/futbol.xml"
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/"
       ],
-      "count_sources": 2,
-      "published": "2026-08-02T17:05:52+00:00",
-      "score": 2.3607029507118034
+      "count_sources": 1,
+      "published": "2026-08-02T20:43:59+00:00",
+      "score": 0.7438564490925694
+    },
+    {
+      "titulo_norm": "la asamblea de los aficionados del rayo en imagenes",
+      "titulos_raw": [
+        "La asamblea de los aficionados del Rayo, en imágenes"
+      ],
+      "enlaces": [
+        "https://as.com/futbol/fotorrelato/la-asamblea-de-los-aficionados-del-rayo-en-imagenes-f202608-f/"
+      ],
+      "fuentes": [
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/"
+      ],
+      "published_candidates": [
+        "2026-08-02T19:35:15+00:00"
+      ],
+      "titulo_representativo": "La asamblea de los aficionados del Rayo, en imágenes",
+      "fuentes_unicas": [
+        "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/primera/"
+      ],
+      "count_sources": 1,
+      "published": "2026-08-02T19:35:15+00:00",
+      "score": 0.6787165763075822
     },
     {
       "titulo_norm": "una demanda del pasado retrasa el anuncio de diomande",
@@ -68,7 +66,7 @@
       ],
       "count_sources": 1,
       "published": "2026-08-02T18:29:52+00:00",
-      "score": 0.880158870686489
+      "score": 0.6220533432094334
     }
   ]
 }

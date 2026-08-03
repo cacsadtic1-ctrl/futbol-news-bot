@@ -186,7 +186,7 @@ def obtener_top3_virales():
         "top3": top3
     }
     os.makedirs("data", exist_ok=True)
-    with open("data/top3_rss_mejorado.json", "w", encoding="utf-8") as f:
+    with open("data/top3.json", "w", encoding="utf-8") as f:
         # Usamos default=serializar_datetime para convertir datetime a string
         json.dump(resultado, f, ensure_ascii=False, indent=2, default=serializar_datetime)
     return resultado
